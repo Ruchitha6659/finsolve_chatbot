@@ -1,4 +1,27 @@
+# Environment variables (API keys)
 .env
+
+# ChromaDB
 chroma_db/
+temp_chroma_db/
+C:/temp_chroma_db/
+
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,31 @@
+# Backend
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+
+# RAG & LangChain
+langchain
+langchain-chroma
+langchain-groq
+langchain-huggingface
+langchain-community
+langchain-text-splitters
+
+# Vector Store
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# LLM
+groq
+
+# Document Loaders
+pypdf
+unstructured[xlsx]
+openpyxl
+
+# Frontend
+streamlit
+requests
